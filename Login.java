@@ -34,8 +34,6 @@ public class Login extends JFrame implements ActionListener {
         logininas.setBounds(300, 100, 100, 20);
         add(logininas);
 
-        // add forget password as label hyper link after submit button
-
         logginin = new Choice();
         logginin.add("Admin");
         logginin.add("Customer");
